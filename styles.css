@@ -1,0 +1,61 @@
+
+.toc-header, 
+.recipe-title {
+    font-family: Georgia, serif;
+}
+
+.toc-item {
+    margin-bottom: 5px;
+}
+
+.toc-item-link,
+.navigation {
+    font-family: Verdana, sans-serif;
+}
+
+.toc-item-link {
+    display: block;
+    background-color: #eceff1;
+    padding: 5px;
+}
+
+.toc-item :hover {
+    background-color: #ffff00;
+}
+
+.navigation {
+    background-color: #eceff1;
+    padding: 5px;
+    text-align: center;
+}
+
+.section-header,
+.subsection-header,
+.description,
+.serving-size,
+.ingredients,
+.steps {
+    font-family: Georgia, serif;
+}
+
+.attribution {
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 0.75em;
+    margin-top: 1px;
+    margin-left: 80px;
+}
+
+.description {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.description.first-line, 
+.serving-size {
+    margin-left: 20px;
+}
+
+.finished-product-image {
+    height: 320px;
+    width: 480px;
+}
